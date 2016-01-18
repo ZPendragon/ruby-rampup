@@ -1,3 +1,4 @@
 Name: Kevin
 Expectation: Learn to code in Ruby!
-Occupation: Software Supper Engineer @Intersystems
+Occupation: Software Support Engineer @Intersystems
+Interesting Fact: I love cooking.
