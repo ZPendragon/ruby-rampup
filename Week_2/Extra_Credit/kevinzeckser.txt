@@ -1,1 +1,2 @@
 Name: Kevin
+Expectation: Learn to code in Ruby!
