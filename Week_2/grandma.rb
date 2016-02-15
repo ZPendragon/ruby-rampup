@@ -13,7 +13,7 @@ print "Grandma, my name is "
 user_input = gets.chomp
 all_caps = user_input.upcase!
 puts "WHAT! AT LEAST YOU KNOW I'M STILL BREATHING..."
-puts "DID YOU SAY SOMETHING?"
+puts "DID YOU SAY SOMETHING BILLY?"
 user_input = gets.chomp
 all_caps = user_input.upcase
 bye_count = 0

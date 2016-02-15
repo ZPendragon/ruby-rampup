@@ -23,9 +23,9 @@ def price_of_gold_from_kilograms(kilograms)
 	if kilograms == "" || kilograms <= 0
 		puts "Value entered: #{kilograms}, not an acceptable value."
 	else
-	puts "       ****Gold Price in Kilogram(s)**** "
-	total_ounces = (kilograms * 2.2) * 16.0
-	price_of_gold(total_ounces)
+		puts "       ****Gold Price in Kilogram(s)**** "
+		total_ounces = (kilograms * 2.2) * 16.0
+		price_of_gold(total_ounces)
 	end
 end
 
